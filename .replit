@@ -1,5 +1,5 @@
 run = ["bundle", "exec", "rspec", "specs/subject_spec.rb"]
-
+hidden = [".bundle", ".gitignore"]
 entrypoint = "main.rb"
 [packager]
 language = "ruby"
