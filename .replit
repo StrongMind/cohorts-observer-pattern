@@ -1,0 +1,3 @@
+run = ["bundle", "exec", "rspec", "specs/subject_spec.rb"]
+
+entrypoint = "main.rb"
